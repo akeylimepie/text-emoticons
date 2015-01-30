@@ -1,0 +1,32 @@
+{
+  "extName": {
+    "message": "Text emoticons"
+  },
+  "extDescription": {
+    "message": "Set of text emoticons for important negotiations."
+  },
+  "commandDescription": {
+    "message": "Show layer"
+  },
+  "copied": {
+    "message": "Copied to clipboard"
+  },
+  "g0": {
+    "message": "Recent"
+  },
+  "g1": {
+    "message": "Whatever"
+  },
+  "g2": {
+    "message": "Happy"
+  },
+  "g3": {
+    "message": "Angry"
+  },
+  "g4": {
+    "message": "Sad"
+  },
+  "g5": {
+    "message": "Memes"
+  }
+}
