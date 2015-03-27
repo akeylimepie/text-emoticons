@@ -11,9 +11,10 @@
   },
   "permissions": [
     "storage",
-    "contextMenus",
-    "activeTab",
-    "clipboardWrite"
+    "tabs",
+    "clipboardWrite",
+    "notifications",
+    "*://*/*"
   ],
   "commands": {
     "show-layer": {

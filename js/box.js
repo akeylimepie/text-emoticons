@@ -1,3 +1,5 @@
+var text_emoticons = true;
+
 var is_popup = location.pathname.indexOf('popup.html') > -1;
 var keysBinded = false;
 
